@@ -18,3 +18,7 @@ section{
     width: 50%;
 
 }
+.erreur{
+    display: flex;
+    color: red;
+}
