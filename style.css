@@ -16,9 +16,27 @@ section{
 }
 #search{
     width: 50%;
+    border-style: solid;
+    border-color: cadetblue;
 
 }
+
 .erreur{
     display: flex;
     color: red;
+}
+button{
+    background-color: green;
+    border: none;
+    height: 28px;
+    border-radius: 20px;
+}
+input{
+     border: none;
+    height: 28px;
+    border-radius: 20px;
+}
+ul{
+    display: flex;
+    gap: 20px;
 }
